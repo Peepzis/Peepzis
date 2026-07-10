@@ -72,7 +72,7 @@ Actualmente estoy fortaleciendo mis conocimientos en **JavaScript, Node.js, Expr
 </picture>
 </a>
 
-<a href="https://www.linkedin.com/in/valentin-heyde-5a2449401" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/valentín-heyde-21708428a" target="_blank" rel="noreferrer">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
